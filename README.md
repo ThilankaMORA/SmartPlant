@@ -1,1 +1,1 @@
-# SmartPlant
+# Smart Plant monitoring system
